@@ -28,10 +28,9 @@ A web-based tool to **merge, parse, and convert PDF files** with ease. Designed 
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/pdf-merger-ui.png" alt="PDF Merger UI" width="700"/>
+  <img src="./pdf-merger-ui.png" alt="PDF Merger UI" width="700"/>
 </p>
 
-> _Add your screenshot to `/assets` and update the path above._
 
 ---
 
