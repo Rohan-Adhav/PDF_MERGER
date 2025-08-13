@@ -1,8 +1,13 @@
 # 📄 PDF Merger & Processor
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
+
 
 A web-based tool to **merge, parse, and convert PDF files** with ease. Designed for users who need fast, reliable document handling — all in a clean, responsive interface.
 
